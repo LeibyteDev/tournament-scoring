@@ -9,7 +9,7 @@ I am releasing this program publicly, open source, to allow anyone who may very 
 ---
 
 ### Program updates
-This program will not recieve any additonal updates from its release, as I have no intentions to develop this program further.
+This program will not recieve any additonal updates, changes or bug fixes from its release, as I have no intentions to develop this program further.
 
 ### Program licensing
 This program is licensed under the [MIT license](LICENSE).
