@@ -12,7 +12,7 @@ I am releasing this program publicly, open source, to allow anyone who may very 
 During the development of the program, I tested and ran the program through the Python IDLE environment - it seems to only function through there, I cannot verify if any other methods of running the program will work or function as intended.
 
 ### Program updates
-This program will not recieve any additonal updates, changes or bug fixes from its release, as I have no intentions to develop this program further. I will not be accepting any contributions, including pull requests.
+This program will not recieve any additional updates, changes or bug fixes from its release, as I have no intentions to develop this program further. I will not be accepting any contributions, including pull requests.
 
 ### Program licensing
 This program is licensed under the [MIT license](LICENSE).
