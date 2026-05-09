@@ -1,5 +1,4 @@
 ## Tournament Scoring Program
 
-This program is a tournament scoring program which was created for a programming assignment.
-
-The program was written in Python using a Tkinter graphical user interface.
+This program is a tournament scoring program which was created for a programming assignment.<br>
+It was written in Python and it uses a Tkinter graphical user interface.
