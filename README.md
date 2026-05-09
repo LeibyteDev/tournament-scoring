@@ -1,6 +1,6 @@
 ## Tournament Scoring Program
 
-This program is a simple tournament scoring program which was created for a programming assignment, which was integral to secure a Distinction grade for the assignment.
+This program is a simple tournament scoring system program which was created for a programming assignment, which was integral to secure a Distinction grade for the assignment.
 
 It was written in Python and it uses a Tkinter graphical user interface (GUI). It only includes what was required for the assignment, nothing else - it may not be very intuitive or user-friendly and it certainly lacks some features and improvements.
 
