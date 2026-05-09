@@ -1,4 +1,4 @@
-## Tournament Scoring Program
+## Tournament Scoring System Program
 
 This program is a simple tournament scoring system program which was created for a programming assignment, which was integral to secure a Distinction grade for the assignment.
 
